@@ -1679,6 +1679,7 @@ GameObject:
   - component: {fileID: 5596458229717058065}
   - component: {fileID: 5596458229717058066}
   - component: {fileID: 5596458229717058067}
+  - component: {fileID: 3677602126673776279}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1788,6 +1789,19 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &3677602126673776279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5596458229717058069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72b88446a462840d6bff3604540ab94d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _objectName: '[Privacy_Scroll]'
 --- !u!1 &5596458229756174607
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,6 +1851,7 @@ GameObject:
   - component: {fileID: 5596458229866797208}
   - component: {fileID: 5596458229866797209}
   - component: {fileID: 5596458229866797210}
+  - component: {fileID: 4092002951061190327}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -1946,6 +1961,19 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &4092002951061190327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5596458229866797212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72b88446a462840d6bff3604540ab94d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _objectName: '[Terms_Scroll]'
 --- !u!1 &5596458229898285965
 GameObject:
   m_ObjectHideFlags: 0

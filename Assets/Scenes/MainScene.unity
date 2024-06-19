@@ -191,6 +191,219 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &527243015
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.9999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5946441
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034562, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Name
+      value: '[Privacy_Scroll]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034562, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199821136152, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Text
+      value: 'At our Application, safeguarding the privacy of our users is a top
+        priority. This document outlines our privacy practices, detailing the types
+        of data we collect and how it''s utilized.
+
+
+        Should you have any
+        inquiries or need further details about our privacy practices, feel free
+        to reach out to us.
+
+
+        Data Logging Practices
+
+        Our Application
+        adheres to conventional data logging methods. These logs record users'' interactions
+        with our Application, capturing details such as IP addresses, browser types,
+        service providers, timestamps, entry and exit pages, and potentially click
+        counts. This data is not associated with any personally identifiable information
+        and is used for trend analysis, Application management, user movement tracking,
+        and demographic gathering.
+
+
+        Advertising Associates
+
+        Certain
+        advertisers within our Application might implement cookies and web beacons.
+        Below is a list of our advertising partners, each having their own privacy
+        guidelines regarding user data, accessible via provided links.
+
+
+        Advertiser
+        Privacy Policies
+
+        You can refer to this list for the privacy policies
+        of each advertiser associated with our Application.
+
+
+        Third-party
+        advertising servers or networks utilize technologies like cookies, JavaScript,
+        or Beacons in their ads and links on our Application. They automatically
+        obtain your IP address in this process. These tools help evaluate the efficacy
+        of their advertising campaigns and customize the content of the ads you see
+        on our Application or other sites.
+
+
+        Please note that our Application
+        has no control over or access to these third-party cookies.
+
+
+        External
+        Privacy Policies
+
+        Our Application''s privacy policy does not extend
+        to external advertisers or websites. We recommend consulting the privacy
+        policies of these third-party ad servers for more comprehensive information,
+        including their practices and opt-out options.
+
+
+        Protecting Children''s
+        Privacy
+
+        One of our primary concerns is the safety of children on
+        the internet. We urge parents and guardians to be actively involved in their
+        children''s online experiences.
+
+
+        Our Application does not intentionally
+        collect any Personally Identifiable Information from children under 13. If
+        you suspect that your child has provided such information on our platform,
+        please contact us immediately. We are committed to swiftly removing such
+        data from our records.
+
+
+        Online Privacy Policy Scope
+
+        This
+        Privacy Policy is applicable solely to our online operations and is valid
+        for visitors to our Application, concerning information they shared and/or
+        collected here. It does not cover information collected offline or through
+        channels other than this Application. This policy was developed with assistance
+        from a generic online privacy policy generator.
+
+
+        User Consent
+
+        By
+        engaging with our Application, you consent to our Privacy Policy and agree
+        to its terms and conditions.
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199821136158, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 685.8182
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936200381917328, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Text
+      value: Privacy Policy
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
 --- !u!1 &1161047896
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,6 +448,348 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d070cf48df2d4d3db819987c544aa328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1592490368
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936198389768265, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.8286643
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034562, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Name
+      value: '[Terms_Scroll]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034562, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199072034622, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199300820501, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199300820501, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199821136152, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Text
+      value: 'Introduction to the Application''s Terms of Use
+
+
+        Welcome to
+        our Application! Your access to and use of our Application is governed by
+        the following terms and conditions. It is important to read and understand
+        these terms before using our services. By engaging with our Application,
+        you signify your acceptance of these terms. If you do not agree with any
+        part of the terms, please refrain from using the Application.
+
+
+        Definition
+        of Terms
+
+
+        In this document, the terms "User", "You", and "Your"
+        refer to you, as the individual accessing our Application and accepting the
+        Application''s terms and conditions. "The Application", "Ourselves", "We",
+        "Our", and "Us", refer to our Application. The term "Party", "Parties", or
+        "Us", refers to both the User and the Application. All terms refer to the
+        offer, acceptance, and consideration of payment necessary to facilitate our
+        support to you in the most appropriate manner, for the sole purpose of meeting
+        your needs in respect of the Application''s services, in accordance with
+        and subject to, prevailing law. These Terms and Conditions were established
+        with support from a generic Terms and Conditions structure.
+
+
+        Intellectual
+        Property Rights and Usage Restrictions
+
+
+        The Application, unless
+        otherwise indicated, owns the intellectual property rights to all content
+        and material on the Application. These rights are protected and reserved.
+        The content of this Application is available for your personal, non-commercial
+        use, subject to the following restrictions:
+
+
+        Do not republish material
+        from the Application.
+
+        Do not sell, rent, or sub-license material
+        from the Application.
+
+        Do not duplicate, reproduce, or copy material
+        from the Application.
+
+        Avoid redistributing content from the Application.
+
+        The
+        commencement of this agreement is the date of your first use of the Application.
+
+
+        User-Generated
+        Content
+
+
+        Our Application allows users to post and exchange opinions
+        and information. Please note that user comments do not necessarily represent
+        the views of the Application. We do not actively monitor, edit, publish,
+        or review Comments before they appear on the site. The Application shall
+        not bear any responsibility for Comments or for any losses, damages, or expenses
+        incurred as a result of any use of and/or posting of and/or appearance of
+        the Comments.
+
+
+        The Application reserves the right to oversee all
+        Comments and to remove any which could be seen as inappropriate or offensive.
+
+
+        When
+        posting comments, you agree to the following:
+
+
+        Your Comments do
+        not violate any intellectual property rights.
+
+        Your Comments do not
+        contain defamatory, libelous, offensive, indecent, or otherwise unlawful
+        material.
+
+        Your Comments will not be used for soliciting or promoting
+        business or illegal activities.
+
+        By posting, you grant the Application
+        a non-exclusive right to use, reproduce, and edit your Comments.
+
+
+        Hyperlinking
+        to the Application
+
+
+        Certain organizations may link to our Application
+        without prior approval:
+
+
+        Government agencies
+
+        Search engines
+
+        News
+        organizations
+
+        Online directory distributors
+
+        System wide
+        Accredited Businesses, except for non-profits, charity malls, and fundraising
+        groups which may not link to our site.
+
+        These organizations may link
+        to our home page, publications, or other Application information, provided
+        the link: (a) is not deceptive; (b) does not imply sponsorship or endorsement;
+        and (c) fits within the context of the linking party''s site.
+
+
+        Link
+        Approval for Other Organizations
+
+
+        We may approve link requests from
+        these types of organizations:
+
+
+        Consumer/business information sources
+
+        Dot.com
+        community sites
+
+        Associations or groups representing charities
+
+        Internet
+        portals
+
+        Professional firms such as law, consulting, and accounting
+        firms
+
+        Educational institutions and trade associations
+
+        Approval
+        is contingent upon: (a) the link not reflecting unfavorably on us; (b) no
+        negative records with us; (c) the visibility of the hyperlink compensating
+        the absence of the Application; and (d) the link being in the context of
+        general resource information.
+
+
+        iFrames
+
+
+        Without approval,
+        you may not frame our Webpages in a way that alters their visual presentation
+        or appearance.
+
+
+        Content Liability
+
+
+        We are not responsible
+        for any content that appears on our Application. You agree to protect and
+        defend us from all claims arising on our Application. No link should appear
+        on any website that may be interpreted as libelous, obscene, or criminal,
+        or infringes on third-party rights.
+
+
+        Rights Reservation
+
+
+        We
+        reserve the right to request the removal of any links or specific link to
+        our Application. By linking to our Application, you agree to be bound to
+        these linking terms and conditions.
+
+
+        Link Removal
+
+
+        If you
+        find any link on our Application offensive, you are free to contact and inform
+        us at any time. We will consider link removal requests but are not obligated
+        to respond or act upon them.
+
+
+        Accuracy of Information
+
+
+        We
+        do not guarantee the accuracy or completeness of the information on our Application;
+        nor do we commit to ensuring the Application remains available or that the
+        content is kept current.
+
+
+        Disclaimer
+
+
+        Our liability is
+        limited and excluded to the maximum extent permissible under applicable law.
+        We will not be liable for any loss or damage of any nature. This disclaimer
+        governs all liabilities arising under the disclaimer or in relation to our
+        Application, including liabilities arising in contract, in tort, and for
+        breach of statutory duty.
+
+
+        The Application and its services are
+        provided free of charge, therefore, we will not be liable for any loss or
+        damage resulting from the use of our Application.
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199821136158, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1622.5455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936199821136158, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000030517578
+      objectReference: {fileID: 0}
+    - target: {fileID: 2063936200381917328, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
+      propertyPath: m_Text
+      value: Terms and Conditions
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
 --- !u!1001 &8087867230706610738
 PrefabInstance:
   m_ObjectHideFlags: 0
