@@ -18,14 +18,14 @@ MonoBehaviour:
     _defaultPrice: 0.99$
     _type: 0
     _androidId: android_product_id1
-    _iosId: com.ios.product.id1
+    _iosId: com.50add
   - _name: Product_2
     _defaultPrice: 1.99$
     _type: 0
     _androidId: android_product_id2
-    _iosId: com.ios.product.id2
+    _iosId: com.150add
   - _name: Product_3
     _defaultPrice: 4.99$
     _type: 0
     _androidId: android_product_id3
-    _iosId: com.ios.product.id3
+    _iosId: com.500add
