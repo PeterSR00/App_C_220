@@ -17,8 +17,8 @@ namespace NativeGalleryNamespace
 #if !UNITY_2018_1_OR_NEWER
 		public bool MinimumiOSTarget8OrAbove = false;
 #endif
-		public string PhotoLibraryUsageDescription = "The app requires access to Photos to interact with it.";
-		public string PhotoLibraryAdditionsUsageDescription = "The app requires access to Photos to save media to it.";
+		public string PhotoLibraryUsageDescription = "App requesting Photo Gallery access for image uploads and personalized profiles.";
+		public string PhotoLibraryAdditionsUsageDescription = "App requesting Photo Gallery access for image uploads and personalized profiles.";
 		public bool DontAskLimitedPhotosPermissionAutomaticallyOnIos14 = true; // See: https://mackuba.eu/2020/07/07/photo-library-changes-ios-14/
 
 		private static Settings m_instance = null;
@@ -129,6 +129,7 @@ namespace NativeGalleryNamespace
 				}
 
 				pbxProject.RemoveFrameworkFromProject( targetGUID, "Photos.framework" );
+				pbxProject.RemoveFrameworkFromProject( targetGUID, "PhotosUI.framework" );
 
 				File.WriteAllText( pbxProjectPath, pbxProject.WriteToString() );
 

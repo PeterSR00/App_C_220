@@ -63,6 +63,7 @@ namespace UserProfile
                     OnChangedUserName?.Invoke(_userName);
 
                     PlayerPrefs.SetString(NAME_SAVE_KEY, _userName);
+                    PlayerPrefs.Save();
                 }
             }
         }

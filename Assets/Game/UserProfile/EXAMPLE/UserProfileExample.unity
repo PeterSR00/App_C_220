@@ -616,10 +616,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7934476591132671812, guid: 5ffa74894beda48b998cd6de15b7d009, type: 3}
-      propertyPath: m_CharacterLimit
-      value: 32
-      objectReference: {fileID: 0}
     - target: {fileID: 7934476591279845304, guid: 5ffa74894beda48b998cd6de15b7d009, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0

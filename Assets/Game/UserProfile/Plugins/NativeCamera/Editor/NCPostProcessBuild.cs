@@ -14,7 +14,7 @@ namespace NativeCameraNamespace
 		private const string SAVE_PATH = "ProjectSettings/NativeCamera.json";
 
 		public bool AutomatedSetup = true;
-		public string CameraUsageDescription = "The app requires access to the camera to take pictures or record videos with it.";
+		public string CameraUsageDescription = "For a polished profile, grant camera access to update your photo effortlessly in our app.";
 		public string MicrophoneUsageDescription = "The app will capture microphone input in the recorded video.";
 
 		private static Settings m_instance = null;
